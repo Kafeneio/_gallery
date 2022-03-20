@@ -1,5 +1,5 @@
 ---
-author: makisgrammenos
+author: epidrome
 title: Terra Vision
 year: 1993
 image_url: /images/terravision-tokyo-1998.jpg
