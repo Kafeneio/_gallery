@@ -11,6 +11,8 @@ categories:
   - Εργαλεία
   - Γραφικά
   
+  
 tags:
-  - oculusrift 
+  - oculus-rift 
+  - Facebook
 ---
