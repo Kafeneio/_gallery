@@ -12,5 +12,5 @@ categories:
   - Γραφικά
   
 tags:
-  - terravision 
+  - terra-vision 
 ---
